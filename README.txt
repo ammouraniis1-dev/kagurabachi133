@@ -1,0 +1,1 @@
+Kagurabachi Chapter 133 Arabic Reader\nUpload index.html, styles.css, script.js, README.txt, and the pages folder to the ROOT of your GitHub repository.\nThe pages are numbered 001.jpg (cover) through 014.jpg in the exact order supplied.\n
